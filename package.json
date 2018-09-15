@@ -1,6 +1,6 @@
 {
   "name": "solarsystem-graph",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Solar System that uses planets and their sizes as values for a bar graph",
   "main": "build/solarsystem-graph.js",
   "scripts": {
