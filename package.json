@@ -2,7 +2,7 @@
   "name": "solarsystem-graph",
   "version": "1.0.2",
   "description": "Solar System that uses planets and their sizes as values for a bar graph",
-  "main": "build/index.js",
+  "main": "build/solarsystem-graph.js",
   "scripts": {
     "webpack": "webpack",
     "build": "webpack --progress -p",
