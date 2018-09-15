@@ -1,0 +1,17 @@
+{
+    "presets": [
+        "es2015",
+        "stage-0"
+    ],
+    "plugins": [
+        "syntax-dynamic-import",
+        "transform-decorators-legacy"
+    ],
+    "env": {
+        "test": {
+            "plugins": [
+            "dynamic-import-node"
+            ]
+        }
+    }
+}
